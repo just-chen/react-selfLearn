@@ -5,7 +5,7 @@ import TabPane from './TabPane';
 
 class App extends Component {
   constructor(props) {
-    super(props);
+    super(props);12
 
     this.state = {
       activeIndex: 0,
